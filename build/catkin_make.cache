@@ -1,0 +1,2 @@
+Tortoise1
+-DCATKIN_DEVEL_PREFIX=/home/qros/Desktop/ROS_Projects/odev1/devel -DCMAKE_INSTALL_PREFIX=/home/qros/Desktop/ROS_Projects/odev1/install -G Unix Makefiles

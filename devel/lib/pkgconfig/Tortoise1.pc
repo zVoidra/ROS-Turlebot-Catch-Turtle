@@ -1,0 +1,8 @@
+prefix=/home/qros/Desktop/ROS_Projects/odev1/devel
+
+Name: Tortoise1
+Description: Description of Tortoise1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
